@@ -16,7 +16,7 @@ export default function Fitness() {
 <ul>
   <li>
 <Typography gutterBottom variant="h4" component="div">
-cult transform 22 33
+cult transform
           </Typography>
           <Typography variant="body1" gutterBottom>
           Get coached to lose weight for good
